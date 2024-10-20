@@ -11,6 +11,8 @@ This project focuses on predicting fight actions using deep learning models. We 
 - **6**: Stand
 - **7**: Wave
 
+(image)[./image.png]
+
 ## Models
 We trained and fine-tuned the following models:
 - **ResNet152**: Fine-tuned on the action dataset.
